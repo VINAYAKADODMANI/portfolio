@@ -3,10 +3,9 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/VINAYAKADODMANI/portfolio/blob/main/desktop_view.png)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/VINAYAKADODMANI/portfolio/blob/main/mobile_view.png)
 
-## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+
